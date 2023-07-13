@@ -1,4 +1,4 @@
-# RTl-to-GDS-ASIC-Design-Flow
+# RTL-to-GDS-ASIC-Design-Flow
 
 Problem Statement and Design Steps
 
