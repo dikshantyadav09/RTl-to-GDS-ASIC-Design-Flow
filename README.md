@@ -6,11 +6,17 @@ Following design steps are completed.
 1. Made a detailed specification of the problem.
 
 [1] Input ports: [3:0]A, [12:0]B, [5:0]C, clk, rst. A and B are data lines and C is control line
+
 [2] Output port: [7:0] OUT
+
 [3] Four functions need to be implemented by design:
+
   I. BCD Counter: C=6’o00 to 6’o14
+  
   II. 1x8 DeMux: C=6’o15 to 6’o30
+  
   III. 4 bit even parity generator: C=6’o31 to 6’o46
+  
   IV. A+B[12:10]: C=6’o47 to 6’o77
 
    
